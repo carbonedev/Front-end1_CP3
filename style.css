@@ -1,0 +1,40 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header{
+
+    background-color: red;
+    width: 100vw;
+    height: 100px;
+
+}
+
+main{
+
+    padding: 25px;
+    background-color: black;
+
+ 
+}
+
+.card {
+
+    background-color: red;
+    color: black;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
