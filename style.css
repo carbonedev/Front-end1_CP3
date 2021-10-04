@@ -8,9 +8,15 @@
 
 header{
 
-    background-color: red;
+    background-color: #242425;
     width: 100vw;
     height: 100px;
+
+}
+
+.logocabeca{
+
+    height: 80px;
 
 }
 
@@ -24,11 +30,13 @@ main{
 
 .card {
 
-    background-color: red;
+    background-color:#3e3f40;
     color: black;
     text-align: center;
 
 }
+
+
 
 
 
