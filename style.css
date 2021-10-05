@@ -36,6 +36,14 @@ main{
 
 }
 
+.modal-content{
+
+   
+    z-index: 40;
+    height: 315px;
+    width: 560px;
+
+}
 
 
 
